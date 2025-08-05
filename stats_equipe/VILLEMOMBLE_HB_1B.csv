@@ -1,0 +1,51 @@
+Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+BACHELE valentin,VILLEMOMBLE HB 1B,domicile,1,12,2,1,1,10,0,0,0,0
+BISMUTH alan,VILLEMOMBLE HB 1B,extérieur,1,1,1,0,0,0,0,0,0,0
+BOUCHILLAOUN luc,VILLEMOMBLE HB 1B,domicile,1,10,9,2,0,0,0,0,0,0
+BROS clement,VILLEMOMBLE HB 1B,domicile,6,17,11,3,3,0,3,1,0,0
+BROS clement,VILLEMOMBLE HB 1B,extérieur,6,14,7,1,2,0,0,0,1,0
+CERQUEIRA BARREIRO stephane,VILLEMOMBLE HB 1B,domicile,9,111,3,2,0,101,3,1,0,0
+CERQUEIRA BARREIRO stephane,VILLEMOMBLE HB 1B,extérieur,11,117,1,0,0,104,1,1,0,0
+CHRISTODOULOU achille,VILLEMOMBLE HB 1B,domicile,1,6,5,1,2,0,1,1,0,0
+CLERIMA killian,VILLEMOMBLE HB 1B,domicile,8,43,38,10,9,0,5,2,2,2
+CLERIMA killian,VILLEMOMBLE HB 1B,extérieur,4,20,17,7,3,0,4,0,1,0
+DE JUAN MATEO hugo,VILLEMOMBLE HB 1B,extérieur,2,8,8,2,3,0,2,0,1,0
+DESSAINT peterson,VILLEMOMBLE HB 1B,domicile,9,55,47,9,9,0,4,1,5,4
+DESSAINT peterson,VILLEMOMBLE HB 1B,extérieur,11,97,86,28,18,0,15,5,15,5
+DEVEZE yanniss,VILLEMOMBLE HB 1B,domicile,11,113,111,13,21,0,8,6,11,9
+DEVEZE yanniss,VILLEMOMBLE HB 1B,extérieur,11,114,108,12,25,0,21,15,16,11
+DORMOY guillaume,VILLEMOMBLE HB 1B,domicile,1,1,0,0,0,1,0,0,0,0
+DOUGLAS ronny,VILLEMOMBLE HB 1B,domicile,1,4,4,0,3,0,0,0,0,0
+DOUGLAS ronny,VILLEMOMBLE HB 1B,extérieur,1,2,2,0,1,0,0,0,0,0
+FOFANA seko,VILLEMOMBLE HB 1B,domicile,2,12,10,1,3,0,1,1,3,3
+HERNANDEZ nicolas,VILLEMOMBLE HB 1B,domicile,7,57,48,4,11,0,13,8,8,6
+HERNANDEZ nicolas,VILLEMOMBLE HB 1B,extérieur,7,45,31,6,10,0,8,7,1,1
+JANSON vincent-fleurian,VILLEMOMBLE HB 1B,domicile,9,46,35,7,8,0,3,0,6,4
+JANSON vincent-fleurian,VILLEMOMBLE HB 1B,extérieur,11,68,60,19,13,0,2,1,6,2
+LAURENT noa,VILLEMOMBLE HB 1B,domicile,11,70,63,16,8,0,15,9,3,1
+LAURENT noa,VILLEMOMBLE HB 1B,extérieur,8,55,48,5,7,0,14,12,7,4
+LAVIOLETTE steve,VILLEMOMBLE HB 1B,domicile,3,24,21,4,4,0,3,3,4,2
+LAVIOLETTE steve,VILLEMOMBLE HB 1B,extérieur,4,44,36,9,9,2,4,2,5,1
+LE CORRE guilherme,VILLEMOMBLE HB 1B,domicile,1,1,1,0,0,0,1,1,0,0
+LE PAGE valentin,VILLEMOMBLE HB 1B,domicile,1,4,3,0,1,0,0,0,0,0
+LE PAGE valentin,VILLEMOMBLE HB 1B,extérieur,1,4,3,0,0,0,1,1,1,1
+MACE bastien,VILLEMOMBLE HB 1B,domicile,1,8,7,4,1,0,1,0,2,0
+MUKUNYA luca,VILLEMOMBLE HB 1B,domicile,1,3,3,0,2,0,0,0,0,0
+MUKUNYA luca,VILLEMOMBLE HB 1B,extérieur,5,26,20,4,9,0,0,0,2,0
+PAGE damien,VILLEMOMBLE HB 1B,domicile,9,29,22,2,4,1,4,4,3,2
+PAGE damien,VILLEMOMBLE HB 1B,extérieur,6,16,11,2,4,0,4,3,1,0
+PALCY eliot,VILLEMOMBLE HB 1B,domicile,3,12,11,3,3,0,1,1,2,1
+PALCY eliot,VILLEMOMBLE HB 1B,extérieur,2,9,8,0,1,0,3,3,3,3
+PEREZ maxime,VILLEMOMBLE HB 1B,domicile,9,46,44,3,6,0,9,7,3,2
+PEREZ maxime,VILLEMOMBLE HB 1B,extérieur,10,37,34,1,8,0,10,8,7,6
+PORT maxime,VILLEMOMBLE HB 1B,domicile,1,3,3,2,0,0,0,0,0,0
+ROMOLI geoffrey,VILLEMOMBLE HB 1B,domicile,7,19,9,4,3,0,1,0,1,0
+ROMOLI geoffrey,VILLEMOMBLE HB 1B,extérieur,7,24,12,1,5,0,4,1,0,0
+ROMOLI lucas,VILLEMOMBLE HB 1B,domicile,8,48,0,0,0,42,0,0,0,0
+ROMOLI lucas,VILLEMOMBLE HB 1B,extérieur,6,28,0,0,0,26,0,0,0,0
+ROMOLI tanguy,VILLEMOMBLE HB 1B,domicile,8,36,24,7,5,0,4,1,3,1
+ROMOLI tanguy,VILLEMOMBLE HB 1B,extérieur,10,47,37,11,10,0,8,2,5,1
+VALOT isaac-samuel-ayahi,VILLEMOMBLE HB 1B,domicile,1,4,3,0,2,0,0,0,0,0
+VEQUE william,VILLEMOMBLE HB 1B,domicile,2,3,2,1,0,0,0,0,0,0
+YALALA samuel,VILLEMOMBLE HB 1B,extérieur,2,12,9,3,2,0,2,2,0,0
+ZOKOEZO GOKE christopher,VILLEMOMBLE HB 1B,domicile,1,8,7,3,1,0,0,0,0,0

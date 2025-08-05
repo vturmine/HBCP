@@ -1,0 +1,52 @@
+Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+BADI walid,JOINVILLE HBA,domicile,9,134,111,19,30,0,16,8,17,6
+BADI walid,JOINVILLE HBA,extérieur,8,128,113,18,16,0,13,10,19,12
+BANDALI mahdi - BANDALI,JOINVILLE HBA,domicile,8,103,1,0,0,77,0,0,0,0
+BANDALI mahdi - BANDALI,JOINVILLE HBA,extérieur,9,78,0,0,0,69,0,0,0,0
+BOUTONNET loic,JOINVILLE HBA,domicile,8,42,34,2,10,0,5,4,2,2
+BOUTONNET loic,JOINVILLE HBA,extérieur,5,29,24,4,2,0,1,0,0,0
+BOUZIDI elyas,JOINVILLE HBA,extérieur,1,1,1,0,1,0,0,0,1,0
+COVET nicolas,JOINVILLE HBA,extérieur,1,2,2,0,0,0,0,0,0,0
+DE ARAUJO DUARTE diogo,JOINVILLE HBA,domicile,7,37,31,0,4,0,8,7,4,4
+DE ARAUJO DUARTE diogo,JOINVILLE HBA,extérieur,5,23,21,1,1,0,1,1,2,2
+DIANDA KABASELE-MBOMBO jonathan,JOINVILLE HBA,domicile,1,5,5,1,1,0,1,0,1,1
+DIANDA KABASELE-MBOMBO jonathan,JOINVILLE HBA,extérieur,2,11,8,1,3,0,1,0,1,1
+DIAS lucas-andre-armand,JOINVILLE HBA,domicile,8,71,1,1,0,52,1,0,0,0
+DIAS lucas-andre-armand,JOINVILLE HBA,extérieur,5,31,0,0,0,26,0,0,0,0
+DORMOY guillaume,JOINVILLE HBA,domicile,1,10,0,0,0,8,0,0,0,0
+DUPOUX andre,JOINVILLE HBA,domicile,4,34,32,4,5,0,11,10,3,0
+DUPOUX andre,JOINVILLE HBA,extérieur,7,55,52,7,12,0,6,5,4,1
+GENEVOIS nathan-jules-lucien,JOINVILLE HBA,domicile,4,41,0,0,0,32,0,0,0,0
+GENEVOIS nathan-jules-lucien,JOINVILLE HBA,extérieur,4,29,0,0,0,21,0,0,0,0
+GRIGNOU lory-yann-yvon,JOINVILLE HBA,domicile,5,38,32,1,11,0,4,2,1,1
+GRIGNOU lory-yann-yvon,JOINVILLE HBA,extérieur,6,63,49,7,10,0,5,4,13,8
+JAAFRI mehdi,JOINVILLE HBA,domicile,2,17,15,1,4,0,5,3,0,0
+JAAFRI mehdi,JOINVILLE HBA,extérieur,4,39,36,7,5,0,7,4,3,0
+KIBELOLAUD yohan,JOINVILLE HBA,domicile,2,26,25,6,7,0,3,1,2,2
+KIBELOLAUD yohan,JOINVILLE HBA,extérieur,3,19,14,5,5,0,0,0,2,0
+LAUNAY ousmane,JOINVILLE HBA,domicile,10,40,23,2,5,0,1,1,1,0
+LAUNAY ousmane,JOINVILLE HBA,extérieur,9,26,13,4,1,1,1,1,2,2
+LE CORRE guilherme,JOINVILLE HBA,domicile,1,3,2,1,1,0,0,0,0,0
+MACHI chafik,JOINVILLE HBA,domicile,4,14,13,4,3,0,3,2,1,0
+MACHI chafik,JOINVILLE HBA,extérieur,1,6,6,1,2,0,2,1,0,0
+MAFFIOLETTI loris-yves-esvillo-yohan,JOINVILLE HBA,domicile,6,25,23,0,12,0,9,3,4,2
+MAFFIOLETTI loris-yves-esvillo-yohan,JOINVILLE HBA,extérieur,7,21,18,2,4,0,3,2,4,3
+MAGASSA makan,JOINVILLE HBA,domicile,6,74,60,11,10,0,3,2,6,6
+MAGASSA makan,JOINVILLE HBA,extérieur,6,77,72,14,14,0,7,5,4,2
+MEYNEN milo-guy-denis,JOINVILLE HBA,domicile,2,6,6,1,3,0,2,0,0,0
+MORIN hugo,JOINVILLE HBA,domicile,1,3,2,2,0,0,1,0,0,0
+NUBUL roger-marc-andre,JOINVILLE HBA,extérieur,2,2,0,0,0,0,0,0,0,0
+OUERHANI marouane,JOINVILLE HBA,extérieur,1,4,4,2,0,0,0,0,1,0
+PIERRODE marvin,JOINVILLE HBA,domicile,1,5,5,1,2,0,0,0,0,0
+PIERRODE marvin,JOINVILLE HBA,extérieur,2,6,5,1,0,0,1,1,0,0
+PITER frederic - PITER,JOINVILLE HBA,domicile,8,65,51,2,21,0,11,5,2,0
+PITER frederic - PITER,JOINVILLE HBA,extérieur,8,59,47,8,11,0,8,4,7,5
+POITOU arthur,JOINVILLE HBA,domicile,1,15,13,1,3,0,2,2,4,3
+RIMIZE henri-charles - RIMIZE-SQUAZZAVENTRE,JOINVILLE HBA,domicile,9,43,36,2,9,0,6,6,5,3
+RIMIZE henri-charles - RIMIZE-SQUAZZAVENTRE,JOINVILLE HBA,extérieur,6,39,38,6,4,0,2,1,3,2
+TALAZAC rudy-marcellin-mathieu-marvin,JOINVILLE HBA,domicile,4,16,14,1,0,0,3,2,0,0
+TALAZAC rudy-marcellin-mathieu-marvin,JOINVILLE HBA,extérieur,3,13,9,3,4,0,3,0,1,0
+TRAN arthur,JOINVILLE HBA,domicile,5,12,12,2,6,0,2,1,1,1
+TRAN arthur,JOINVILLE HBA,extérieur,4,5,4,0,1,0,0,0,0,0
+WITTRANT edgard,JOINVILLE HBA,domicile,9,44,42,6,7,0,4,4,5,3
+WITTRANT edgard,JOINVILLE HBA,extérieur,6,31,27,4,4,0,5,4,0,0

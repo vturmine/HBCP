@@ -1,0 +1,53 @@
+Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+ABDOU elarif,CM AUBERVILLIERS,domicile,4,24,22,2,3,0,2,2,1,1
+ABDOU elarif,CM AUBERVILLIERS,extérieur,4,24,23,3,10,0,1,0,5,3
+ADJETEY koko christ leo,CM AUBERVILLIERS,domicile,9,70,55,8,13,0,1,0,11,8
+ADJETEY koko christ leo,CM AUBERVILLIERS,extérieur,9,97,76,17,23,0,11,2,12,4
+AKROUTI mohamed-habib,CM AUBERVILLIERS,domicile,2,2,1,0,0,0,0,0,0,0
+AKROUTI mohamed-habib,CM AUBERVILLIERS,extérieur,1,4,3,0,2,1,2,1,0,0
+ALI ABDALLAH yasser,CM AUBERVILLIERS,domicile,8,63,1,0,0,60,0,0,0,0
+ALI ABDALLAH yasser,CM AUBERVILLIERS,extérieur,9,50,1,0,0,37,1,1,0,0
+AYARI fares,CM AUBERVILLIERS,domicile,9,29,27,3,6,0,3,1,2,0
+AYARI fares,CM AUBERVILLIERS,extérieur,10,45,39,3,12,0,3,3,5,3
+BESCHER killian,CM AUBERVILLIERS,extérieur,3,13,9,1,2,0,2,2,1,0
+BOUCHELKIA hichem,CM AUBERVILLIERS,domicile,2,5,5,1,2,0,2,1,1,0
+BOUCHELKIA hichem,CM AUBERVILLIERS,extérieur,3,12,10,4,3,0,1,1,1,0
+BOUHADDOU imed,CM AUBERVILLIERS,extérieur,1,1,0,0,0,0,0,0,0,0
+CELESTIN philocles,CM AUBERVILLIERS,domicile,1,8,8,0,2,0,0,0,1,0
+CELESTIN philocles,CM AUBERVILLIERS,extérieur,2,9,9,3,1,0,0,0,1,0
+CHAUVIN paul,CM AUBERVILLIERS,domicile,1,1,1,0,1,0,0,0,0,0
+CHEKROUN elie,CM AUBERVILLIERS,extérieur,1,1,1,0,1,0,0,0,1,0
+DELGADO jason,CM AUBERVILLIERS,domicile,1,6,5,0,2,0,1,0,2,2
+DEY anik,CM AUBERVILLIERS,domicile,8,61,56,7,15,0,4,4,7,2
+DEY anik,CM AUBERVILLIERS,extérieur,8,52,46,3,10,0,5,5,8,4
+DIAKHO sourakhe,CM AUBERVILLIERS,domicile,3,29,0,0,0,29,0,0,0,0
+DIAKHO sourakhe,CM AUBERVILLIERS,extérieur,1,4,0,0,0,4,0,0,0,0
+DIARRA boukari,CM AUBERVILLIERS,domicile,5,10,7,1,2,0,0,0,2,1
+DIARRA boukari,CM AUBERVILLIERS,extérieur,6,19,12,2,1,0,1,1,1,1
+DORMOY guillaume,CM AUBERVILLIERS,domicile,1,5,0,0,0,5,0,0,0,0
+FRANCOIS tedd,CM AUBERVILLIERS,domicile,10,90,79,16,13,0,4,2,8,4
+FRANCOIS tedd,CM AUBERVILLIERS,extérieur,10,96,85,22,22,0,5,2,10,7
+GABAIX benoit,CM AUBERVILLIERS,domicile,1,4,0,0,0,4,0,0,0,0
+GABAIX benoit,CM AUBERVILLIERS,extérieur,1,2,0,0,0,2,0,0,0,0
+GRANGER yassin-ilies,CM AUBERVILLIERS,domicile,6,24,18,1,6,0,2,1,2,1
+GRANGER yassin-ilies,CM AUBERVILLIERS,extérieur,7,22,14,2,6,0,1,0,1,1
+KESKES mohamed,CM AUBERVILLIERS,domicile,7,45,31,4,6,0,3,2,3,2
+KESKES mohamed,CM AUBERVILLIERS,extérieur,6,44,28,6,7,0,5,4,2,1
+KINGOLO-MBUKU jadi,CM AUBERVILLIERS,domicile,5,47,2,1,0,43,1,1,1,0
+KINGOLO-MBUKU jadi,CM AUBERVILLIERS,extérieur,5,53,0,0,0,48,0,0,0,0
+LE CORRE guilherme,CM AUBERVILLIERS,domicile,1,6,3,1,0,0,0,0,1,1
+MANHOSO loic,CM AUBERVILLIERS,domicile,2,25,23,3,7,0,1,0,2,2
+MANHOSO loic,CM AUBERVILLIERS,extérieur,1,1,1,0,0,0,0,0,0,0
+MEKIOUS rayan,CM AUBERVILLIERS,domicile,1,2,0,0,0,2,0,0,0,0
+MEKIOUS rayan,CM AUBERVILLIERS,extérieur,2,8,0,0,0,5,0,0,0,0
+MORIN hugo,CM AUBERVILLIERS,domicile,1,1,1,0,0,0,0,0,0,0
+SAID aslam,CM AUBERVILLIERS,domicile,6,27,22,7,6,0,4,3,3,0
+SAID aslam,CM AUBERVILLIERS,extérieur,5,12,11,2,3,0,2,2,3,3
+SARDOU aurelien-malik,CM AUBERVILLIERS,domicile,10,57,49,7,3,0,4,3,5,5
+SARDOU aurelien-malik,CM AUBERVILLIERS,extérieur,8,54,47,4,13,0,3,3,9,6
+SISSAKO ibrahim,CM AUBERVILLIERS,domicile,7,31,27,1,11,0,1,1,6,3
+SISSAKO ibrahim,CM AUBERVILLIERS,extérieur,8,30,23,4,8,1,0,0,2,2
+TARCHOUL adnen,CM AUBERVILLIERS,domicile,3,4,0,0,0,0,0,0,0,0
+TARCHOUL adnen,CM AUBERVILLIERS,extérieur,4,7,3,0,2,0,0,0,0,0
+TOURE idris-theodore,CM AUBERVILLIERS,domicile,7,20,17,3,0,0,1,1,6,3
+TOURE idris-theodore,CM AUBERVILLIERS,extérieur,6,27,9,1,3,11,0,0,1,1

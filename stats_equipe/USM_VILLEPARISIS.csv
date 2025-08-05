@@ -1,0 +1,41 @@
+Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+ATTARD dylan,USM VILLEPARISIS,domicile,10,64,53,7,14,0,12,9,8,4
+ATTARD dylan,USM VILLEPARISIS,extérieur,11,57,41,5,11,1,3,3,3,3
+BACLET steven-pierre,USM VILLEPARISIS,domicile,10,80,77,17,18,0,10,3,6,3
+BACLET steven-pierre,USM VILLEPARISIS,extérieur,11,108,105,32,22,0,8,5,9,5
+BEZZAOUIA abdoullah,USM VILLEPARISIS,domicile,11,52,46,6,14,0,8,5,3,2
+BEZZAOUIA abdoullah,USM VILLEPARISIS,extérieur,11,46,38,6,4,0,10,7,0,0
+BONNERAVE remi,USM VILLEPARISIS,domicile,7,27,18,1,2,0,3,3,2,2
+BONNERAVE remi,USM VILLEPARISIS,extérieur,8,44,38,1,7,0,8,6,3,2
+CALLEEMALLAY bradley,USM VILLEPARISIS,extérieur,1,2,1,0,0,0,0,0,0,0
+CHOUAIEB naim,USM VILLEPARISIS,domicile,6,35,0,0,0,29,0,0,0,0
+CHOUAIEB naim,USM VILLEPARISIS,extérieur,1,4,0,0,0,4,0,0,0,0
+COLIN arthur-paul - COLIN,USM VILLEPARISIS,domicile,10,96,82,18,20,0,11,8,13,8
+COLIN arthur-paul - COLIN,USM VILLEPARISIS,extérieur,11,136,114,31,31,0,16,7,19,7
+DACOURT sydney,USM VILLEPARISIS,domicile,6,30,28,7,11,0,2,0,2,0
+DACOURT sydney,USM VILLEPARISIS,extérieur,6,20,18,5,6,0,3,1,5,2
+DORMOY guillaume,USM VILLEPARISIS,domicile,1,5,0,0,0,2,0,0,0,0
+FERDERBAR mickael,USM VILLEPARISIS,domicile,11,33,25,1,5,0,5,4,0,0
+FERDERBAR mickael,USM VILLEPARISIS,extérieur,7,21,14,1,2,0,2,2,1,1
+GANARD lorenzo,USM VILLEPARISIS,domicile,2,2,2,0,1,0,0,0,0,0
+GANARD lorenzo,USM VILLEPARISIS,extérieur,1,2,1,0,0,0,0,0,0,0
+GUERIT benjamin-kim,USM VILLEPARISIS,domicile,1,2,0,0,0,1,0,0,0,0
+GUERIT benjamin-kim,USM VILLEPARISIS,extérieur,1,8,0,0,0,7,0,0,0,0
+HAMMAOUI merwan,USM VILLEPARISIS,extérieur,3,5,5,1,1,0,1,1,2,1
+HAMON arthur-eliott,USM VILLEPARISIS,domicile,11,139,107,19,18,0,12,6,8,7
+HAMON arthur-eliott,USM VILLEPARISIS,extérieur,9,103,91,15,17,0,24,15,7,4
+IMBERT alexis,USM VILLEPARISIS,domicile,2,2,2,0,0,0,0,0,1,1
+IMBERT alexis,USM VILLEPARISIS,extérieur,4,6,6,1,1,0,0,0,0,0
+LE CORRE guilherme,USM VILLEPARISIS,domicile,1,6,4,0,3,0,0,0,0,0
+MELLIER kevin,USM VILLEPARISIS,domicile,11,115,0,0,0,100,0,0,0,0
+MELLIER kevin,USM VILLEPARISIS,extérieur,9,91,3,1,1,82,1,0,0,0
+MORIN hugo,USM VILLEPARISIS,domicile,1,2,2,0,0,0,2,2,2,2
+MOUTON stephane,USM VILLEPARISIS,domicile,4,20,0,0,0,17,0,0,0,0
+MOUTON stephane,USM VILLEPARISIS,extérieur,8,48,3,1,0,36,0,0,0,0
+PEREZ valentin-lucas,USM VILLEPARISIS,domicile,9,18,15,1,4,0,3,2,0,0
+PEREZ valentin-lucas,USM VILLEPARISIS,extérieur,6,15,10,0,1,0,4,4,2,2
+PORT maxime,USM VILLEPARISIS,domicile,1,4,3,0,0,0,0,0,2,2
+REYT maxance,USM VILLEPARISIS,domicile,3,5,4,2,1,0,0,0,0,0
+REYT maxance,USM VILLEPARISIS,extérieur,1,2,2,0,1,0,0,0,1,1
+ZURCHER marien,USM VILLEPARISIS,domicile,10,32,31,5,6,1,1,1,5,3
+ZURCHER marien,USM VILLEPARISIS,extérieur,10,32,29,6,9,0,4,2,9,5

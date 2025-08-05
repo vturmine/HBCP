@@ -1,0 +1,47 @@
+Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+ANTONIUS sacha,HBC VAL-DE-SEINE,domicile,1,1,1,0,1,0,0,0,0,0
+ANTONIUS sacha,HBC VAL-DE-SEINE,extérieur,1,4,4,0,3,0,1,0,0,0
+BEAUDIN thomas,HBC VAL-DE-SEINE,domicile,10,47,0,0,0,44,0,0,0,0
+BEAUDIN thomas,HBC VAL-DE-SEINE,extérieur,8,65,0,0,0,56,0,0,0,0
+BENOIT ewan,HBC VAL-DE-SEINE,domicile,10,84,77,15,14,0,19,13,9,5
+BENOIT ewan,HBC VAL-DE-SEINE,extérieur,7,44,41,10,12,0,10,3,2,1
+BOILLON martin,HBC VAL-DE-SEINE,domicile,1,3,1,0,0,0,0,0,0,0
+BOILLON martin,HBC VAL-DE-SEINE,extérieur,2,10,10,1,3,0,1,0,1,1
+DI BELLO maxime,HBC VAL-DE-SEINE,domicile,7,58,54,9,6,0,8,6,10,8
+DI BELLO maxime,HBC VAL-DE-SEINE,extérieur,6,49,47,7,9,0,4,4,8,5
+DORMOY guillaume,HBC VAL-DE-SEINE,domicile,1,15,0,0,0,15,0,0,0,0
+ELISABETH thomas,HBC VAL-DE-SEINE,domicile,10,35,23,2,5,0,4,4,4,3
+ELISABETH thomas,HBC VAL-DE-SEINE,extérieur,8,38,25,0,11,0,2,1,1,0
+FOUQUE adrien,HBC VAL-DE-SEINE,domicile,9,63,56,11,18,0,7,5,6,3
+FOUQUE adrien,HBC VAL-DE-SEINE,extérieur,9,61,57,10,16,0,10,6,7,4
+FULAT killian,HBC VAL-DE-SEINE,domicile,7,34,29,9,5,0,10,8,3,2
+FULAT killian,HBC VAL-DE-SEINE,extérieur,8,25,19,5,2,0,2,1,1,1
+GAMIN ambroyse,HBC VAL-DE-SEINE,domicile,2,6,4,0,2,0,1,1,2,0
+JAMOT tom,HBC VAL-DE-SEINE,domicile,3,13,12,0,4,0,1,0,4,3
+JAMOT tom,HBC VAL-DE-SEINE,extérieur,3,23,17,0,5,0,2,1,3,2
+KHENSOUS fares,HBC VAL-DE-SEINE,extérieur,1,3,0,0,0,3,0,0,0,0
+LABERGE sacha,HBC VAL-DE-SEINE,domicile,1,5,5,0,2,0,2,0,0,0
+LABERGE sacha,HBC VAL-DE-SEINE,extérieur,1,6,6,1,0,0,0,0,2,2
+LAVOIX pierrick,HBC VAL-DE-SEINE,domicile,9,36,29,4,9,0,5,3,3,3
+LAVOIX pierrick,HBC VAL-DE-SEINE,extérieur,4,15,12,2,3,0,3,3,1,1
+LE CORRE guilherme,HBC VAL-DE-SEINE,domicile,1,4,2,0,1,0,0,0,2,1
+LEMOINE noa,HBC VAL-DE-SEINE,domicile,2,5,4,0,2,0,0,0,0,0
+LEMOINE noa,HBC VAL-DE-SEINE,extérieur,2,5,5,0,2,0,0,0,0,0
+LEMOINE teo,HBC VAL-DE-SEINE,extérieur,2,6,6,0,1,0,3,2,0,0
+LEROUX valentin,HBC VAL-DE-SEINE,domicile,9,84,55,4,9,0,11,10,7,6
+LEROUX valentin,HBC VAL-DE-SEINE,extérieur,8,73,46,5,10,0,5,4,3,1
+MADEIRA corentin,HBC VAL-DE-SEINE,domicile,1,3,3,1,0,0,0,0,0,0
+MADEIRA corentin,HBC VAL-DE-SEINE,extérieur,1,6,5,0,1,0,0,0,0,0
+NASRI samy,HBC VAL-DE-SEINE,domicile,6,57,53,13,4,0,5,4,7,7
+NASRI samy,HBC VAL-DE-SEINE,extérieur,7,89,79,22,18,0,4,2,8,5
+PECQUEUR morgan,HBC VAL-DE-SEINE,domicile,2,26,0,0,0,21,0,0,0,0
+PECQUEUR morgan,HBC VAL-DE-SEINE,extérieur,2,19,0,0,0,16,0,0,0,0
+REAULT junior,HBC VAL-DE-SEINE,domicile,6,34,31,4,5,0,4,3,7,5
+REAULT junior,HBC VAL-DE-SEINE,extérieur,8,55,51,6,5,1,4,3,13,9
+RICHARD kevin,HBC VAL-DE-SEINE,domicile,10,54,51,8,13,0,4,3,5,0
+RICHARD kevin,HBC VAL-DE-SEINE,extérieur,9,49,48,10,11,0,6,2,8,6
+RICHARD simon,HBC VAL-DE-SEINE,domicile,9,65,0,0,0,64,0,0,0,0
+RICHARD simon,HBC VAL-DE-SEINE,extérieur,9,56,1,0,0,45,0,0,0,0
+TIMBERT pierre,HBC VAL-DE-SEINE,domicile,10,53,37,4,4,0,7,6,5,5
+TIMBERT pierre,HBC VAL-DE-SEINE,extérieur,8,46,37,8,8,0,3,1,5,5
+VILLECOURT romain,HBC VAL-DE-SEINE,extérieur,1,10,8,1,1,0,2,1,2,2

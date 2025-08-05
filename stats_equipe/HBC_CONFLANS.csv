@@ -1,0 +1,46 @@
+Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+ARRAGON alexandre,HBC CONFLANS,domicile,7,44,32,9,2,0,4,3,3,2
+ARRAGON alexandre,HBC CONFLANS,extérieur,8,36,24,6,6,0,3,0,2,2
+BIDEAU alexis,HBC CONFLANS,domicile,9,60,49,10,11,0,6,4,9,5
+BIDEAU alexis,HBC CONFLANS,extérieur,9,61,54,16,6,0,6,4,8,5
+BROST--MIRANDEL martin,HBC CONFLANS,domicile,2,10,5,1,1,0,0,0,1,0
+BROUSSET victor,HBC CONFLANS,domicile,5,18,17,3,3,0,5,3,4,1
+BROUSSET victor,HBC CONFLANS,extérieur,7,44,42,10,8,0,3,1,6,2
+CALDEIRINHA loic,HBC CONFLANS,domicile,10,71,56,16,5,0,12,9,8,7
+CALDEIRINHA loic,HBC CONFLANS,extérieur,8,36,31,6,6,0,9,7,3,3
+CANO-CUNCHE william,HBC CONFLANS,domicile,1,2,1,0,0,0,0,0,0,0
+CANO-CUNCHE william,HBC CONFLANS,extérieur,1,1,0,0,0,0,0,0,0,0
+CAZAUDUMEC hugo,HBC CONFLANS,domicile,4,14,13,2,1,0,5,4,0,0
+CAZAUDUMEC hugo,HBC CONFLANS,extérieur,6,16,16,1,4,0,0,0,1,1
+COLLEAU benjamin,HBC CONFLANS,domicile,1,9,9,0,3,0,2,1,1,1
+COLLEAU benjamin,HBC CONFLANS,extérieur,4,23,20,4,4,0,2,2,2,2
+DECOUFLEY quentin,HBC CONFLANS,domicile,6,21,16,0,3,0,4,4,0,0
+DECOUFLEY quentin,HBC CONFLANS,extérieur,4,10,9,0,1,0,0,0,0,0
+DUFOUR ludovic,HBC CONFLANS,domicile,9,35,34,6,14,0,2,2,7,2
+DUFOUR ludovic,HBC CONFLANS,extérieur,9,32,27,4,11,4,0,0,3,2
+HEBERT jules,HBC CONFLANS,domicile,8,37,32,9,7,0,6,4,7,2
+HEBERT jules,HBC CONFLANS,extérieur,5,23,20,7,6,0,5,3,4,1
+JOUANNETAUD adrien,HBC CONFLANS,domicile,5,15,12,0,6,0,3,0,3,1
+JOUANNETAUD adrien,HBC CONFLANS,extérieur,5,24,21,4,4,0,0,0,3,2
+KAID jordan,HBC CONFLANS,domicile,6,24,16,8,2,0,4,2,1,0
+KAID jordan,HBC CONFLANS,extérieur,4,28,21,6,3,0,6,3,3,1
+LE CORRE guilherme,HBC CONFLANS,domicile,1,5,5,0,3,0,0,0,3,2
+LEROUX guillaume,HBC CONFLANS,domicile,11,127,115,21,28,0,16,11,21,12
+LEROUX guillaume,HBC CONFLANS,extérieur,10,118,111,27,15,0,10,9,6,3
+MACHARD djonse,HBC CONFLANS,domicile,3,24,21,4,3,0,5,4,6,4
+MACHARD djonse,HBC CONFLANS,extérieur,2,14,11,1,4,0,1,1,1,1
+MARCILLE theophile - MARCILLE,HBC CONFLANS,domicile,8,57,0,0,0,48,0,0,0,0
+MARCILLE theophile - MARCILLE,HBC CONFLANS,extérieur,8,62,1,1,0,57,0,0,0,0
+MARY mathieu,HBC CONFLANS,domicile,5,11,7,1,2,0,1,0,0,0
+MARY mathieu,HBC CONFLANS,extérieur,5,10,9,2,2,0,1,1,0,0
+MAUGER romain,HBC CONFLANS,domicile,4,14,11,2,4,0,2,1,2,1
+MAUGER romain,HBC CONFLANS,extérieur,6,36,25,3,6,0,3,1,3,2
+MUTTERER alexy,HBC CONFLANS,domicile,1,6,4,0,1,0,1,1,0,0
+MUTTERER alexy,HBC CONFLANS,extérieur,1,6,6,3,1,0,0,0,1,0
+PELOPIDAS trevis,HBC CONFLANS,extérieur,2,5,5,1,1,0,1,1,0,0
+PONTAULT tanguy,HBC CONFLANS,domicile,11,123,2,1,0,112,2,1,0,0
+PONTAULT tanguy,HBC CONFLANS,extérieur,10,78,1,1,0,71,0,0,0,0
+SCHNEIDER leo,HBC CONFLANS,domicile,11,82,69,3,21,0,12,8,8,5
+SCHNEIDER leo,HBC CONFLANS,extérieur,8,60,51,5,12,0,10,7,1,0
+TANGUY nathan,HBC CONFLANS,domicile,1,1,1,0,1,0,0,0,0,0
+TANGUY nathan,HBC CONFLANS,extérieur,2,5,3,0,0,0,2,2,0,0
