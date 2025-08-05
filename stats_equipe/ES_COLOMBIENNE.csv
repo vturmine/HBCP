@@ -1,44 +1,44 @@
-Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
-AUSSUD vincent,ES COLOMBIENNE,domicile,8,42,36,4,12,0,2,0,6,2
-AUSSUD vincent,ES COLOMBIENNE,extérieur,8,39,35,6,12,0,5,3,6,5
-BEGUE tanguy,ES COLOMBIENNE,domicile,10,34,28,3,4,0,3,2,1,1
-BEGUE tanguy,ES COLOMBIENNE,extérieur,9,36,25,5,4,0,4,3,3,3
-BENTOUMI issam,ES COLOMBIENNE,domicile,11,73,71,17,16,0,7,6,13,7
-BENTOUMI issam,ES COLOMBIENNE,extérieur,10,51,47,8,20,0,4,2,8,3
-BEZE corentin,ES COLOMBIENNE,domicile,8,63,49,7,17,1,10,5,4,2
-BEZE corentin,ES COLOMBIENNE,extérieur,11,103,73,19,22,1,11,2,8,4
-CAUCHY romain,ES COLOMBIENNE,domicile,1,11,0,0,0,11,0,0,0,0
-CAUCHY romain,ES COLOMBIENNE,extérieur,1,14,0,0,0,8,0,0,0,0
-CHATEL jeremie,ES COLOMBIENNE,extérieur,2,5,2,0,2,0,0,0,0,0
-CLAIRVOYANT winslow,ES COLOMBIENNE,domicile,3,12,9,2,2,0,0,0,0,0
-CLAIRVOYANT winslow,ES COLOMBIENNE,extérieur,2,11,10,1,4,0,2,1,0,0
-DORMOY guillaume,ES COLOMBIENNE,domicile,1,3,0,0,0,3,0,0,0,0
-HERKAT matthew,ES COLOMBIENNE,domicile,8,41,31,4,3,0,1,1,4,3
-HERKAT matthew,ES COLOMBIENNE,extérieur,10,60,46,6,8,0,2,2,5,4
-KEDI alric,ES COLOMBIENNE,domicile,8,27,21,3,3,0,4,3,2,2
-KEDI alric,ES COLOMBIENNE,extérieur,7,21,15,1,7,0,4,3,0,0
-LAIGLE quentin,ES COLOMBIENNE,domicile,1,7,6,4,0,0,0,0,0,0
-LAIGLE quentin,ES COLOMBIENNE,extérieur,3,27,23,4,8,0,0,0,4,2
-LAUNOIS paul,ES COLOMBIENNE,domicile,10,100,91,20,20,0,13,8,13,7
-LAUNOIS paul,ES COLOMBIENNE,extérieur,8,78,65,13,15,0,12,5,13,6
-LE CORRE guilherme,ES COLOMBIENNE,domicile,1,8,5,0,1,0,0,0,2,1
-LE GUILLOU clement,ES COLOMBIENNE,domicile,1,4,4,0,0,0,0,0,0,0
-LE GUILLOU clement,ES COLOMBIENNE,extérieur,1,2,2,0,0,0,1,1,1,1
-LEBARBANCHON thomas,ES COLOMBIENNE,domicile,7,25,20,1,5,0,5,4,2,1
-LEBARBANCHON thomas,ES COLOMBIENNE,extérieur,6,28,25,4,4,0,1,1,3,2
-MACHARD djonse,ES COLOMBIENNE,domicile,4,44,34,5,6,0,9,5,4,3
-MACHARD djonse,ES COLOMBIENNE,extérieur,6,65,58,5,18,0,4,3,10,5
-MEKHFI bilal,ES COLOMBIENNE,domicile,10,26,20,5,4,0,3,2,2,1
-MEKHFI bilal,ES COLOMBIENNE,extérieur,11,26,12,4,4,0,2,1,3,0
-MEKHFI mohamed,ES COLOMBIENNE,domicile,10,70,58,17,16,9,6,2,8,3
-MEKHFI mohamed,ES COLOMBIENNE,extérieur,11,80,77,19,25,0,10,4,14,5
-MEKHFI yacine,ES COLOMBIENNE,extérieur,1,1,1,0,1,0,0,0,0,0
-MORIN hugo,ES COLOMBIENNE,domicile,1,6,5,1,3,0,1,0,1,0
-OLIVETTI vincent,ES COLOMBIENNE,domicile,10,127,1,1,0,125,0,0,0,0
-OLIVETTI vincent,ES COLOMBIENNE,extérieur,10,144,0,0,0,137,0,0,0,0
-PERSE adrian,ES COLOMBIENNE,domicile,1,5,5,3,1,0,2,1,2,1
-VACCHER nicolas,ES COLOMBIENNE,domicile,8,20,17,5,5,0,1,1,1,0
-VACCHER nicolas,ES COLOMBIENNE,extérieur,3,3,2,0,0,0,0,0,0,0
-VISCI maxime,ES COLOMBIENNE,domicile,2,24,18,5,2,0,1,0,2,1
-VISCI maxime,ES COLOMBIENNE,extérieur,1,14,11,4,2,0,1,1,3,0
-VOISIN philippe,ES COLOMBIENNE,extérieur,1,15,0,0,0,15,0,0,0,0
+Joueur,Équipe,Type_Match,taux_reussite,taux_reussite_sup,taux_reussite_inf,pourcentage_buts_equipe,pourcentage_buts_sup_equipe,pourcentage_buts_inf_equipe,nb_matchs,nb_actions,nb_tirs,nb_buts,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+AUSSUD vincent,ES COLOMBIENNE,domicile,55.6,0.0,33.3,6.6,0.0,5.7,8,42,36,20,4,12,0,2,0,6,2
+AUSSUD vincent,ES COLOMBIENNE,extérieur,48.6,60.0,83.3,6.2,9.4,12.5,8,39,35,17,6,12,0,5,3,6,5
+BEGUE tanguy,ES COLOMBIENNE,domicile,75.0,66.7,100.0,7.0,5.0,2.9,10,34,28,21,3,4,0,3,2,1,1
+BEGUE tanguy,ES COLOMBIENNE,extérieur,64.0,75.0,100.0,5.8,9.4,7.5,9,36,25,16,5,4,0,4,3,3,3
+BENTOUMI issam,ES COLOMBIENNE,domicile,53.5,85.7,53.8,12.6,15.0,20.0,11,73,71,38,17,16,0,7,6,13,7
+BENTOUMI issam,ES COLOMBIENNE,extérieur,40.4,50.0,37.5,6.9,6.2,7.5,10,51,47,19,8,20,0,4,2,8,3
+BEZE corentin,ES COLOMBIENNE,domicile,51.0,50.0,50.0,8.3,12.5,5.7,8,63,49,25,7,17,1,10,5,4,2
+BEZE corentin,ES COLOMBIENNE,extérieur,43.8,18.2,50.0,11.7,6.2,10.0,11,103,73,32,19,22,1,11,2,8,4
+CAUCHY romain,ES COLOMBIENNE,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,11,0,0,0,0,11,0,0,0,0
+CAUCHY romain,ES COLOMBIENNE,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,1,14,0,0,0,0,8,0,0,0,0
+CHATEL jeremie,ES COLOMBIENNE,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,2,5,2,0,0,2,0,0,0,0,0
+CLAIRVOYANT winslow,ES COLOMBIENNE,domicile,55.6,0.0,0.0,1.7,0.0,0.0,3,12,9,5,2,2,0,0,0,0,0
+CLAIRVOYANT winslow,ES COLOMBIENNE,extérieur,50.0,50.0,0.0,1.8,3.1,0.0,2,11,10,5,1,4,0,2,1,0,0
+DORMOY guillaume,ES COLOMBIENNE,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,3,0,0,0,0,3,0,0,0,0
+HERKAT matthew,ES COLOMBIENNE,domicile,77.4,100.0,75.0,7.9,2.5,8.6,8,41,31,24,4,3,0,1,1,4,3
+HERKAT matthew,ES COLOMBIENNE,extérieur,69.6,100.0,80.0,11.7,6.2,10.0,10,60,46,32,6,8,0,2,2,5,4
+KEDI alric,ES COLOMBIENNE,domicile,71.4,75.0,100.0,5.0,7.5,5.7,8,27,21,15,3,3,0,4,3,2,2
+KEDI alric,ES COLOMBIENNE,extérieur,46.7,75.0,0.0,2.6,9.4,0.0,7,21,15,7,1,7,0,4,3,0,0
+LAIGLE quentin,ES COLOMBIENNE,domicile,33.3,0.0,0.0,0.7,0.0,0.0,1,7,6,2,4,0,0,0,0,0,0
+LAIGLE quentin,ES COLOMBIENNE,extérieur,47.8,0.0,50.0,4.0,0.0,5.0,3,27,23,11,4,8,0,0,0,4,2
+LAUNOIS paul,ES COLOMBIENNE,domicile,56.0,61.5,53.8,16.9,20.0,20.0,10,100,91,51,20,20,0,13,8,13,7
+LAUNOIS paul,ES COLOMBIENNE,extérieur,56.9,41.7,46.2,13.5,15.6,15.0,8,78,65,37,13,15,0,12,5,13,6
+LE CORRE guilherme,ES COLOMBIENNE,domicile,80.0,0.0,50.0,1.3,0.0,2.9,1,8,5,4,0,1,0,0,0,2,1
+LE GUILLOU clement,ES COLOMBIENNE,domicile,100.0,0.0,0.0,1.3,0.0,0.0,1,4,4,4,0,0,0,0,0,0,0
+LE GUILLOU clement,ES COLOMBIENNE,extérieur,100.0,100.0,100.0,0.7,3.1,2.5,1,2,2,2,0,0,0,1,1,1,1
+LEBARBANCHON thomas,ES COLOMBIENNE,domicile,70.0,80.0,50.0,4.6,10.0,2.9,7,25,20,14,1,5,0,5,4,2,1
+LEBARBANCHON thomas,ES COLOMBIENNE,extérieur,68.0,100.0,66.7,6.2,3.1,5.0,6,28,25,17,4,4,0,1,1,3,2
+MACHARD djonse,ES COLOMBIENNE,domicile,67.6,55.6,75.0,7.6,12.5,8.6,4,44,34,23,5,6,0,9,5,4,3
+MACHARD djonse,ES COLOMBIENNE,extérieur,60.3,75.0,50.0,12.8,9.4,12.5,6,65,58,35,5,18,0,4,3,10,5
+MEKHFI bilal,ES COLOMBIENNE,domicile,55.0,66.7,50.0,3.6,5.0,2.9,10,26,20,11,5,4,0,3,2,2,1
+MEKHFI bilal,ES COLOMBIENNE,extérieur,33.3,50.0,0.0,1.5,3.1,0.0,11,26,12,4,4,4,0,2,1,3,0
+MEKHFI mohamed,ES COLOMBIENNE,domicile,43.1,33.3,37.5,8.3,5.0,8.6,10,70,58,25,17,16,9,6,2,8,3
+MEKHFI mohamed,ES COLOMBIENNE,extérieur,42.9,40.0,35.7,12.0,12.5,12.5,11,80,77,33,19,25,0,10,4,14,5
+MEKHFI yacine,ES COLOMBIENNE,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1,0,0,1,0,0,0,0,0
+MORIN hugo,ES COLOMBIENNE,domicile,20.0,0.0,0.0,0.3,0.0,0.0,1,6,5,1,1,3,0,1,0,1,0
+OLIVETTI vincent,ES COLOMBIENNE,domicile,0.0,0.0,0.0,0.0,0.0,0.0,10,127,1,0,1,0,125,0,0,0,0
+OLIVETTI vincent,ES COLOMBIENNE,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,10,144,0,0,0,0,137,0,0,0,0
+PERSE adrian,ES COLOMBIENNE,domicile,20.0,50.0,50.0,0.3,2.5,2.9,1,5,5,1,3,1,0,2,1,2,1
+VACCHER nicolas,ES COLOMBIENNE,domicile,41.2,100.0,0.0,2.3,2.5,0.0,8,20,17,7,5,5,0,1,1,1,0
+VACCHER nicolas,ES COLOMBIENNE,extérieur,100.0,0.0,0.0,0.7,0.0,0.0,3,3,2,2,0,0,0,0,0,0,0
+VISCI maxime,ES COLOMBIENNE,domicile,61.1,0.0,50.0,3.6,0.0,2.9,2,24,18,11,5,2,0,1,0,2,1
+VISCI maxime,ES COLOMBIENNE,extérieur,45.5,100.0,0.0,1.8,3.1,0.0,1,14,11,5,4,2,0,1,1,3,0
+VOISIN philippe,ES COLOMBIENNE,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,1,15,0,0,0,0,15,0,0,0,0

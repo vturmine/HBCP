@@ -1,40 +1,40 @@
-Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
-AMIENS jeremie,VERSAILLES HBC,domicile,1,7,7,0,3,0,0,0,1,1
-AMIENS jeremie,VERSAILLES HBC,extérieur,1,5,4,0,1,0,0,0,0,0
-BOURSIER jeremy,VERSAILLES HBC,domicile,5,13,12,0,8,0,1,0,2,1
-BOURSIER jeremy,VERSAILLES HBC,extérieur,4,11,11,3,6,0,3,0,2,1
-BRAMAT gaspard,VERSAILLES HBC,domicile,10,89,78,11,18,0,5,3,6,2
-BRAMAT gaspard,VERSAILLES HBC,extérieur,10,99,87,16,18,0,9,6,12,8
-BURDEL matthias,VERSAILLES HBC,domicile,4,14,14,4,6,0,0,0,0,0
-CAPERAA raphael,VERSAILLES HBC,domicile,9,83,0,0,0,66,0,0,0,0
-CAPERAA raphael,VERSAILLES HBC,extérieur,10,87,0,0,0,80,0,0,0,0
-CARRE benjamin,VERSAILLES HBC,extérieur,2,6,5,1,0,0,1,1,1,1
-DORMOY guillaume,VERSAILLES HBC,domicile,7,76,0,0,0,63,0,0,0,0
-GASSIN diordan-dave,VERSAILLES HBC,domicile,1,4,4,2,2,0,2,0,0,0
-GATUINGT antoine,VERSAILLES HBC,domicile,2,3,3,0,0,0,1,1,0,0
-GATUINGT antoine,VERSAILLES HBC,extérieur,1,1,1,1,0,0,0,0,0,0
-GATUINGT arthur,VERSAILLES HBC,domicile,10,75,69,9,15,0,17,9,3,1
-GATUINGT arthur,VERSAILLES HBC,extérieur,7,42,38,8,9,0,6,3,5,3
-GUIMBERTEAU victor,VERSAILLES HBC,domicile,11,44,35,3,9,0,5,3,1,0
-GUIMBERTEAU victor,VERSAILLES HBC,extérieur,9,40,32,1,10,0,5,3,5,4
-LE CORRE guilherme,VERSAILLES HBC,domicile,1,5,5,1,1,0,1,1,1,1
-LOMBA FARIA jean-michel,VERSAILLES HBC,domicile,5,38,36,4,13,0,2,1,6,4
-LOMBA FARIA jean-michel,VERSAILLES HBC,extérieur,4,17,15,3,6,0,0,0,4,2
-MARUSZAK LECOINTE kevin,VERSAILLES HBC,domicile,9,47,29,2,7,0,6,5,0,0
-MARUSZAK LECOINTE kevin,VERSAILLES HBC,extérieur,9,54,38,3,8,0,4,2,2,2
-MORIN hugo,VERSAILLES HBC,domicile,1,3,2,0,2,0,0,0,0,0
-MORJANE mathis,VERSAILLES HBC,domicile,1,1,1,0,1,0,0,0,1,0
-OTMANETELBA kais,VERSAILLES HBC,domicile,9,28,26,8,9,0,3,1,4,1
-OTMANETELBA kais,VERSAILLES HBC,extérieur,10,50,40,6,17,0,4,3,6,2
-RENET lucas,VERSAILLES HBC,domicile,4,8,7,1,3,0,0,0,1,0
-RENET lucas,VERSAILLES HBC,extérieur,5,20,18,6,4,0,2,1,3,1
-RIOULT leo,VERSAILLES HBC,domicile,2,28,0,0,0,27,0,0,0,0
-ROLLET arthur,VERSAILLES HBC,domicile,8,54,52,2,14,0,15,9,7,4
-ROLLET arthur,VERSAILLES HBC,extérieur,8,52,46,5,13,0,8,6,4,3
-SIXTO mathieu,VERSAILLES HBC,domicile,7,84,56,18,18,0,1,0,6,1
-SIXTO mathieu,VERSAILLES HBC,extérieur,9,114,89,23,32,0,7,2,12,5
-STEFAN benjamin,VERSAILLES HBC,domicile,9,32,28,4,7,0,2,2,2,1
-STEFAN benjamin,VERSAILLES HBC,extérieur,10,42,38,3,13,0,2,2,6,3
-SUARD damien,VERSAILLES HBC,extérieur,2,3,2,1,0,0,0,0,0,0
-TOUZARD robin,VERSAILLES HBC,domicile,8,48,40,6,10,0,4,1,6,2
-TOUZARD robin,VERSAILLES HBC,extérieur,7,62,51,5,18,0,8,5,5,3
+Joueur,Équipe,Type_Match,taux_reussite,taux_reussite_sup,taux_reussite_inf,pourcentage_buts_equipe,pourcentage_buts_sup_equipe,pourcentage_buts_inf_equipe,nb_matchs,nb_actions,nb_tirs,nb_buts,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+AMIENS jeremie,VERSAILLES HBC,domicile,57.1,0.0,100.0,1.4,0.0,5.3,1,7,7,4,0,3,0,0,0,1,1
+AMIENS jeremie,VERSAILLES HBC,extérieur,75.0,0.0,0.0,1.1,0.0,0.0,1,5,4,3,0,1,0,0,0,0,0
+BOURSIER jeremy,VERSAILLES HBC,domicile,33.3,0.0,50.0,1.4,0.0,5.3,5,13,12,4,0,8,0,1,0,2,1
+BOURSIER jeremy,VERSAILLES HBC,extérieur,18.2,0.0,50.0,0.7,0.0,2.6,4,11,11,2,3,6,0,3,0,2,1
+BRAMAT gaspard,VERSAILLES HBC,domicile,62.8,60.0,33.3,17.3,8.3,10.5,10,89,78,49,11,18,0,5,3,6,2
+BRAMAT gaspard,VERSAILLES HBC,extérieur,60.9,66.7,66.7,19.3,17.6,21.1,10,99,87,53,16,18,0,9,6,12,8
+BURDEL matthias,VERSAILLES HBC,domicile,28.6,0.0,0.0,1.4,0.0,0.0,4,14,14,4,4,6,0,0,0,0,0
+CAPERAA raphael,VERSAILLES HBC,domicile,0.0,0.0,0.0,0.0,0.0,0.0,9,83,0,0,0,0,66,0,0,0,0
+CAPERAA raphael,VERSAILLES HBC,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,10,87,0,0,0,0,80,0,0,0,0
+CARRE benjamin,VERSAILLES HBC,extérieur,80.0,100.0,100.0,1.5,2.9,2.6,2,6,5,4,1,0,0,1,1,1,1
+DORMOY guillaume,VERSAILLES HBC,domicile,0.0,0.0,0.0,0.0,0.0,0.0,7,76,0,0,0,0,63,0,0,0,0
+GASSIN diordan-dave,VERSAILLES HBC,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,4,4,0,2,2,0,2,0,0,0
+GATUINGT antoine,VERSAILLES HBC,domicile,100.0,100.0,0.0,1.1,2.8,0.0,2,3,3,3,0,0,0,1,1,0,0
+GATUINGT antoine,VERSAILLES HBC,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1,0,1,0,0,0,0,0,0
+GATUINGT arthur,VERSAILLES HBC,domicile,65.2,52.9,33.3,15.9,25.0,5.3,10,75,69,45,9,15,0,17,9,3,1
+GATUINGT arthur,VERSAILLES HBC,extérieur,55.3,50.0,60.0,7.6,8.8,7.9,7,42,38,21,8,9,0,6,3,5,3
+GUIMBERTEAU victor,VERSAILLES HBC,domicile,65.7,60.0,0.0,8.1,8.3,0.0,11,44,35,23,3,9,0,5,3,1,0
+GUIMBERTEAU victor,VERSAILLES HBC,extérieur,65.6,60.0,80.0,7.6,8.8,10.5,9,40,32,21,1,10,0,5,3,5,4
+LE CORRE guilherme,VERSAILLES HBC,domicile,60.0,100.0,100.0,1.1,2.8,5.3,1,5,5,3,1,1,0,1,1,1,1
+LOMBA FARIA jean-michel,VERSAILLES HBC,domicile,52.8,50.0,66.7,6.7,2.8,21.1,5,38,36,19,4,13,0,2,1,6,4
+LOMBA FARIA jean-michel,VERSAILLES HBC,extérieur,40.0,0.0,50.0,2.2,0.0,5.3,4,17,15,6,3,6,0,0,0,4,2
+MARUSZAK LECOINTE kevin,VERSAILLES HBC,domicile,69.0,83.3,0.0,7.1,13.9,0.0,9,47,29,20,2,7,0,6,5,0,0
+MARUSZAK LECOINTE kevin,VERSAILLES HBC,extérieur,71.1,50.0,100.0,9.8,5.9,5.3,9,54,38,27,3,8,0,4,2,2,2
+MORIN hugo,VERSAILLES HBC,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,3,2,0,0,2,0,0,0,0,0
+MORJANE mathis,VERSAILLES HBC,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1,0,0,1,0,0,0,1,0
+OTMANETELBA kais,VERSAILLES HBC,domicile,34.6,33.3,25.0,3.2,2.8,5.3,9,28,26,9,8,9,0,3,1,4,1
+OTMANETELBA kais,VERSAILLES HBC,extérieur,42.5,75.0,33.3,6.2,8.8,5.3,10,50,40,17,6,17,0,4,3,6,2
+RENET lucas,VERSAILLES HBC,domicile,42.9,0.0,0.0,1.1,0.0,0.0,4,8,7,3,1,3,0,0,0,1,0
+RENET lucas,VERSAILLES HBC,extérieur,44.4,50.0,33.3,2.9,2.9,2.6,5,20,18,8,6,4,0,2,1,3,1
+RIOULT leo,VERSAILLES HBC,domicile,0.0,0.0,0.0,0.0,0.0,0.0,2,28,0,0,0,0,27,0,0,0,0
+ROLLET arthur,VERSAILLES HBC,domicile,69.2,60.0,57.1,12.7,25.0,21.1,8,54,52,36,2,14,0,15,9,7,4
+ROLLET arthur,VERSAILLES HBC,extérieur,60.9,75.0,75.0,10.2,17.6,7.9,8,52,46,28,5,13,0,8,6,4,3
+SIXTO mathieu,VERSAILLES HBC,domicile,35.7,0.0,16.7,7.1,0.0,5.3,7,84,56,20,18,18,0,1,0,6,1
+SIXTO mathieu,VERSAILLES HBC,extérieur,38.2,28.6,41.7,12.4,5.9,13.2,9,114,89,34,23,32,0,7,2,12,5
+STEFAN benjamin,VERSAILLES HBC,domicile,60.7,100.0,50.0,6.0,5.6,5.3,9,32,28,17,4,7,0,2,2,2,1
+STEFAN benjamin,VERSAILLES HBC,extérieur,57.9,100.0,50.0,8.0,5.9,7.9,10,42,38,22,3,13,0,2,2,6,3
+SUARD damien,VERSAILLES HBC,extérieur,50.0,0.0,0.0,0.4,0.0,0.0,2,3,2,1,1,0,0,0,0,0,0
+TOUZARD robin,VERSAILLES HBC,domicile,60.0,25.0,33.3,8.5,2.8,10.5,8,48,40,24,6,10,0,4,1,6,2
+TOUZARD robin,VERSAILLES HBC,extérieur,54.9,62.5,60.0,10.2,14.7,7.9,7,62,51,28,5,18,0,8,5,5,3

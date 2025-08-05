@@ -1,50 +1,50 @@
-Joueur,Équipe,Type_Match,nb_matchs,nb_actions,nb_tirs,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
-AIT-RAMDANE amine,TU VERRIERES,domicile,6,33,0,0,0,28,0,0,0,0
-AIT-RAMDANE amine,TU VERRIERES,extérieur,2,11,0,0,0,10,0,0,0,0
-AMARA selim-zidane,TU VERRIERES,domicile,6,64,58,13,18,0,10,7,5,3
-AMARA selim-zidane,TU VERRIERES,extérieur,6,45,40,9,15,0,4,2,3,1
-BALVOIRAT mathieu,TU VERRIERES,extérieur,1,5,2,1,0,0,0,0,0,0
-BARBU ethan,TU VERRIERES,domicile,3,14,11,2,3,1,0,0,0,0
-BARBU ethan,TU VERRIERES,extérieur,2,9,8,4,0,0,0,0,1,1
-BECK CARPENTER AUGUSTE anasthase,TU VERRIERES,domicile,5,12,11,1,4,0,4,2,1,0
-BECK CARPENTER AUGUSTE anasthase,TU VERRIERES,extérieur,8,35,31,8,10,0,7,3,3,2
-BEGUE william,TU VERRIERES,domicile,7,27,27,7,8,0,5,1,8,3
-BEGUE william,TU VERRIERES,extérieur,7,33,33,3,7,0,9,6,6,5
-BEKHTI pierre-hakim,TU VERRIERES,domicile,1,7,7,2,3,0,0,0,2,1
-BEKHTI pierre-hakim,TU VERRIERES,extérieur,1,8,8,4,0,0,0,0,0,0
-BENADI nicolas,TU VERRIERES,domicile,6,59,50,2,11,0,7,6,6,3
-BENADI nicolas,TU VERRIERES,extérieur,4,19,15,2,3,0,2,2,1,1
-BRACONNIER jean-baptiste,TU VERRIERES,domicile,3,10,8,1,1,0,1,1,3,2
-BRACONNIER jean-baptiste,TU VERRIERES,extérieur,2,5,5,0,2,0,0,0,0,0
-BRETHEAU ethan,TU VERRIERES,domicile,2,6,4,2,1,0,0,0,0,0
-CAPET quentin,TU VERRIERES,domicile,3,31,29,6,9,0,3,1,1,1
-CAPET quentin,TU VERRIERES,extérieur,2,13,11,4,5,0,3,0,1,0
-CONHYE alvynn,TU VERRIERES,domicile,9,77,1,0,0,66,0,0,1,1
-CONHYE alvynn,TU VERRIERES,extérieur,10,91,3,2,0,78,3,1,0,0
-DESMARD nicolas,TU VERRIERES,domicile,1,4,4,0,2,0,1,1,0,0
-DESMARD nicolas,TU VERRIERES,extérieur,2,5,5,2,0,0,3,1,0,0
-DIARRA yannis,TU VERRIERES,domicile,10,108,94,16,29,0,10,5,10,5
-DIARRA yannis,TU VERRIERES,extérieur,11,120,91,27,22,0,12,6,8,5
-DORMOY guillaume,TU VERRIERES,domicile,1,9,0,0,0,8,0,0,0,0
-DUTHUILLE clement,TU VERRIERES,domicile,5,11,8,2,2,0,1,1,1,1
-DUTHUILLE clement,TU VERRIERES,extérieur,4,19,17,7,2,0,6,2,0,0
-EL GUERCHI adib,TU VERRIERES,domicile,4,10,9,1,2,0,1,1,1,0
-EL GUERCHI adib,TU VERRIERES,extérieur,6,20,14,4,5,0,3,1,1,0
-GAUTHIER raphael,TU VERRIERES,extérieur,1,1,1,1,0,0,0,0,1,0
-HAO ravi,TU VERRIERES,domicile,1,2,0,0,0,0,0,0,0,0
-HAO ravi,TU VERRIERES,extérieur,1,6,0,0,0,3,0,0,0,0
-HAYRAPIAN cyril,TU VERRIERES,domicile,8,35,29,6,13,0,4,3,2,0
-HAYRAPIAN cyril,TU VERRIERES,extérieur,8,42,41,17,7,0,1,1,6,3
-JANELLO thomas,TU VERRIERES,domicile,6,76,74,16,12,0,10,7,6,2
-JANELLO thomas,TU VERRIERES,extérieur,8,78,67,22,9,0,1,0,5,3
-LE BRET thomas-thierry - THOMAS,TU VERRIERES,domicile,5,34,31,10,8,0,3,3,4,2
-LE BRET thomas-thierry - THOMAS,TU VERRIERES,extérieur,6,23,19,6,5,0,1,1,3,0
-LE CORRE guilherme,TU VERRIERES,domicile,1,1,1,0,0,0,0,0,0,0
-MARLOT romain,TU VERRIERES,domicile,7,23,17,3,3,0,2,2,0,0
-MARLOT romain,TU VERRIERES,extérieur,8,23,15,2,6,3,2,2,2,1
-MOSER antoine,TU VERRIERES,domicile,1,12,0,0,0,11,0,0,0,0
-MOSER antoine,TU VERRIERES,extérieur,2,6,5,0,1,0,2,2,0,0
-SAYANOFF dimitri,TU VERRIERES,domicile,6,13,12,1,2,0,0,0,0,0
-SAYANOFF dimitri,TU VERRIERES,extérieur,6,27,24,5,8,0,4,2,0,0
-TAILLANDIER hugo,TU VERRIERES,domicile,4,14,6,2,1,0,0,0,0,0
-TAILLANDIER hugo,TU VERRIERES,extérieur,7,44,33,8,7,0,4,3,3,2
+Joueur,Équipe,Type_Match,taux_reussite,taux_reussite_sup,taux_reussite_inf,pourcentage_buts_equipe,pourcentage_buts_sup_equipe,pourcentage_buts_inf_equipe,nb_matchs,nb_actions,nb_tirs,nb_buts,nb_tirs_rates,nb_tirs_bloques,nb_arrets,tirs_sup,buts_sup,tirs_inf,buts_inf
+AIT-RAMDANE amine,TU VERRIERES,domicile,0.0,0.0,0.0,0.0,0.0,0.0,6,33,0,0,0,0,28,0,0,0,0
+AIT-RAMDANE amine,TU VERRIERES,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,2,11,0,0,0,0,10,0,0,0,0
+AMARA selim-zidane,TU VERRIERES,domicile,46.6,70.0,60.0,10.2,17.1,12.5,6,64,58,27,13,18,0,10,7,5,3
+AMARA selim-zidane,TU VERRIERES,extérieur,40.0,50.0,33.3,6.8,5.7,4.2,6,45,40,16,9,15,0,4,2,3,1
+BALVOIRAT mathieu,TU VERRIERES,extérieur,50.0,0.0,0.0,0.4,0.0,0.0,1,5,2,1,1,0,0,0,0,0,0
+BARBU ethan,TU VERRIERES,domicile,54.5,0.0,0.0,2.3,0.0,0.0,3,14,11,6,2,3,1,0,0,0,0
+BARBU ethan,TU VERRIERES,extérieur,50.0,0.0,100.0,1.7,0.0,4.2,2,9,8,4,4,0,0,0,0,1,1
+BECK CARPENTER AUGUSTE anasthase,TU VERRIERES,domicile,54.5,50.0,0.0,2.3,4.9,0.0,5,12,11,6,1,4,0,4,2,1,0
+BECK CARPENTER AUGUSTE anasthase,TU VERRIERES,extérieur,41.9,42.9,66.7,5.5,8.6,8.3,8,35,31,13,8,10,0,7,3,3,2
+BEGUE william,TU VERRIERES,domicile,44.4,20.0,37.5,4.5,2.4,12.5,7,27,27,12,7,8,0,5,1,8,3
+BEGUE william,TU VERRIERES,extérieur,69.7,66.7,83.3,9.7,17.1,20.8,7,33,33,23,3,7,0,9,6,6,5
+BEKHTI pierre-hakim,TU VERRIERES,domicile,28.6,0.0,50.0,0.8,0.0,4.2,1,7,7,2,2,3,0,0,0,2,1
+BEKHTI pierre-hakim,TU VERRIERES,extérieur,50.0,0.0,0.0,1.7,0.0,0.0,1,8,8,4,4,0,0,0,0,0,0
+BENADI nicolas,TU VERRIERES,domicile,74.0,85.7,50.0,13.9,14.6,12.5,6,59,50,37,2,11,0,7,6,6,3
+BENADI nicolas,TU VERRIERES,extérieur,66.7,100.0,100.0,4.2,5.7,4.2,4,19,15,10,2,3,0,2,2,1,1
+BRACONNIER jean-baptiste,TU VERRIERES,domicile,75.0,100.0,66.7,2.3,2.4,8.3,3,10,8,6,1,1,0,1,1,3,2
+BRACONNIER jean-baptiste,TU VERRIERES,extérieur,60.0,0.0,0.0,1.3,0.0,0.0,2,5,5,3,0,2,0,0,0,0,0
+BRETHEAU ethan,TU VERRIERES,domicile,25.0,0.0,0.0,0.4,0.0,0.0,2,6,4,1,2,1,0,0,0,0,0
+CAPET quentin,TU VERRIERES,domicile,48.3,33.3,100.0,5.3,2.4,4.2,3,31,29,14,6,9,0,3,1,1,1
+CAPET quentin,TU VERRIERES,extérieur,18.2,0.0,0.0,0.8,0.0,0.0,2,13,11,2,4,5,0,3,0,1,0
+CONHYE alvynn,TU VERRIERES,domicile,100.0,0.0,100.0,0.4,0.0,4.2,9,77,1,1,0,0,66,0,0,1,1
+CONHYE alvynn,TU VERRIERES,extérieur,33.3,33.3,0.0,0.4,2.9,0.0,10,91,3,1,2,0,78,3,1,0,0
+DESMARD nicolas,TU VERRIERES,domicile,50.0,100.0,0.0,0.8,2.4,0.0,1,4,4,2,0,2,0,1,1,0,0
+DESMARD nicolas,TU VERRIERES,extérieur,60.0,33.3,0.0,1.3,2.9,0.0,2,5,5,3,2,0,0,3,1,0,0
+DIARRA yannis,TU VERRIERES,domicile,52.1,50.0,50.0,18.4,12.2,20.8,10,108,94,49,16,29,0,10,5,10,5
+DIARRA yannis,TU VERRIERES,extérieur,46.2,50.0,62.5,17.8,17.1,20.8,11,120,91,42,27,22,0,12,6,8,5
+DORMOY guillaume,TU VERRIERES,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,9,0,0,0,0,8,0,0,0,0
+DUTHUILLE clement,TU VERRIERES,domicile,50.0,100.0,100.0,1.5,2.4,4.2,5,11,8,4,2,2,0,1,1,1,1
+DUTHUILLE clement,TU VERRIERES,extérieur,47.1,33.3,0.0,3.4,5.7,0.0,4,19,17,8,7,2,0,6,2,0,0
+EL GUERCHI adib,TU VERRIERES,domicile,66.7,100.0,0.0,2.3,2.4,0.0,4,10,9,6,1,2,0,1,1,1,0
+EL GUERCHI adib,TU VERRIERES,extérieur,35.7,33.3,0.0,2.1,2.9,0.0,6,20,14,5,4,5,0,3,1,1,0
+GAUTHIER raphael,TU VERRIERES,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1,0,1,0,0,0,0,1,0
+HAO ravi,TU VERRIERES,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,2,0,0,0,0,0,0,0,0,0
+HAO ravi,TU VERRIERES,extérieur,0.0,0.0,0.0,0.0,0.0,0.0,1,6,0,0,0,0,3,0,0,0,0
+HAYRAPIAN cyril,TU VERRIERES,domicile,34.5,75.0,0.0,3.8,7.3,0.0,8,35,29,10,6,13,0,4,3,2,0
+HAYRAPIAN cyril,TU VERRIERES,extérieur,41.5,100.0,50.0,7.2,2.9,12.5,8,42,41,17,17,7,0,1,1,6,3
+JANELLO thomas,TU VERRIERES,domicile,62.2,70.0,33.3,17.3,17.1,8.3,6,76,74,46,16,12,0,10,7,6,2
+JANELLO thomas,TU VERRIERES,extérieur,53.7,0.0,60.0,15.3,0.0,12.5,8,78,67,36,22,9,0,1,0,5,3
+LE BRET thomas-thierry - THOMAS,TU VERRIERES,domicile,41.9,100.0,50.0,4.9,7.3,8.3,5,34,31,13,10,8,0,3,3,4,2
+LE BRET thomas-thierry - THOMAS,TU VERRIERES,extérieur,42.1,100.0,0.0,3.4,2.9,0.0,6,23,19,8,6,5,0,1,1,3,0
+LE CORRE guilherme,TU VERRIERES,domicile,100.0,0.0,0.0,0.4,0.0,0.0,1,1,1,1,0,0,0,0,0,0,0
+MARLOT romain,TU VERRIERES,domicile,64.7,100.0,0.0,4.1,4.9,0.0,7,23,17,11,3,3,0,2,2,0,0
+MARLOT romain,TU VERRIERES,extérieur,46.7,100.0,50.0,3.0,5.7,4.2,8,23,15,7,2,6,3,2,2,2,1
+MOSER antoine,TU VERRIERES,domicile,0.0,0.0,0.0,0.0,0.0,0.0,1,12,0,0,0,0,11,0,0,0,0
+MOSER antoine,TU VERRIERES,extérieur,80.0,100.0,0.0,1.7,5.7,0.0,2,6,5,4,0,1,0,2,2,0,0
+SAYANOFF dimitri,TU VERRIERES,domicile,75.0,0.0,0.0,3.4,0.0,0.0,6,13,12,9,1,2,0,0,0,0,0
+SAYANOFF dimitri,TU VERRIERES,extérieur,45.8,50.0,0.0,4.7,5.7,0.0,6,27,24,11,5,8,0,4,2,0,0
+TAILLANDIER hugo,TU VERRIERES,domicile,50.0,0.0,0.0,1.1,0.0,0.0,4,14,6,3,2,1,0,0,0,0,0
+TAILLANDIER hugo,TU VERRIERES,extérieur,54.5,75.0,66.7,7.6,8.6,8.3,7,44,33,18,8,7,0,4,3,3,2
